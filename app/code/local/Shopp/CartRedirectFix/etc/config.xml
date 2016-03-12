@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Shopp_CartRedirectFix>
+            <version>1.0.0</version>
+        </Shopp_CartRedirectFix>
+    </modules>
+
+    <frontend>
+        <routers>
+            <checkout>
+                <args>
+                    <modules>
+                        <Shopp_CartRedirectFix before="Mage_Checkout">Shopp_CartRedirectFix</Shopp_CartRedirectFix>
+                    </modules>
+                </args>
+            </checkout>
+        </routers>
+    </frontend>
+ 
+</config>

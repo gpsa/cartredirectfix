@@ -1,0 +1,3 @@
+app/code/local/Shopp/CartRedirectFix        app/code/local/Shopp/CartRedirectFix
+app/etc/modules/*.xml                       app/etc/modules/
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+ * Data de criação: 12/03/2016 11:23:59
+ *
+ * Desenvolvido por Guilherme Alves.
+-->
+
+<config>
+    <modules>
+        <Shopp_CartRedirectFix>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Shopp_CartRedirectFix>
+    </modules>
+</config>
